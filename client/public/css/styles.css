@@ -1,0 +1,36 @@
+:root {
+  --primary-color: #33658a;
+  --secondary-color: #bfedc1;
+  --accent-1: fff;
+  --accent-2: eeee;
+  --nuetral-1: AAACB0;
+  --nuetral-2: HAACB0;
+
+  --font-size: 16px;
+}
+
+.square {
+  border-radius: 0px;
+}
+
+.jumbotron {
+  background-color: var(--primary-color);
+  color: #fff;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+/* .nav-pills {
+  background-color: var(--primary-color);
+} */
+
+.top-nav {
+  background-color: var(--primary-color);
+}
+
+/* .btn-primary {
+  background-color: red;
+  color: white;
+} */
